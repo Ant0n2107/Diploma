@@ -1,6 +1,6 @@
 # Diploma
 This project is my bachelor's thesis and my first experience creating Convolutional Neural Network. The goal of the project is to recognize the voice of my family members, which I recorded myself.
-## Technologies used in this project: 
+## Technologies used in this project
 1. Python 
 2. Pandas for creation training and test data
 3. Numpy for math calculations
